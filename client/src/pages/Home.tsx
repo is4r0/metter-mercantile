@@ -1,10 +1,4 @@
-/**
- * DESIGN PHILOSOPHY: Appalachian Folk Revival
- * Warm, handcrafted, tactile — like walking through rooms of a real Southern mercantile.
- * Colors: Aged cream (#FAF6EF), sage green (#6B8F71), warm walnut (#8B6347), deep charcoal (#3D3530).
- * Typography: Playfair Display (display) + Lato (body) + Dancing Script (accent).
- * Layout: Asymmetric editorial — each section has its own personality.
- */
+
 
 import { useEffect, useRef } from "react";
 import Navbar from "@/components/Navbar";
