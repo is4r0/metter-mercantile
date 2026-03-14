@@ -34,9 +34,6 @@
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-**Database:**
-
-![Database](https://img.shields.io/badge/Database-To_Be_Determined-lightgrey?style=for-the-badge)
 
 **Tools & Package Management:**
 
