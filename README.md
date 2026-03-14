@@ -10,9 +10,9 @@
 
 ## 🖥️ Screenshots
 
+!(1.png)
 
-
-![Screenshot 2](path-to-screenshot) <!-- TODO: Add mobile screenshots for responsiveness -->
+!(2.png)
 
 ## 🛠️ Tech Stack
 
