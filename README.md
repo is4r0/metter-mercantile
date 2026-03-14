@@ -10,9 +10,9 @@
 
 ## 🖥️ Screenshots
 
-!(1.png)
+<img width="1857" height="926" alt="image" src="client/public/1.png" />
 
-!(2.png)
+<img width="1857" height="926" alt="image" src="client/public/2.png" />
 
 ## 🛠️ Tech Stack
 
