@@ -1,5 +1,3 @@
-## ✏️ [Live Demo](https://mettershop-ftddyyue.manus.space/)  
-
 ## ✨ Features
 
 -   🎯 **Modular Monorepo Architecture:** Organized codebase with dedicated `client`, `server`, and `shared` workspaces for enhanced development workflow.
